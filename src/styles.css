@@ -1,0 +1,3 @@
+:root{--cream:#FBF3E6;--blush:#F3C9CF;--rose:#D9788C;--red:#A9202F;--magenta:#9C2A66;--gold:#C29A45;--leaf:#7C9A6D;--ink:#4A1620}
+*{box-sizing:border-box;margin:0}
+html,body{height:100%;background:var(--cream);color:var(--ink);font-family:'Cormorant Garamond',serif;overflow-x:hidden}

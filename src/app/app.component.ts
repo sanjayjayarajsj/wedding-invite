@@ -23,7 +23,7 @@ export class AppComponent {
 
   // ---- EDIT YOUR CONTENT HERE ----
   bride = { name: 'Nandana', parents: 'D/O Ravindran. C & Rajani. T', home: 'Chethott House, Payyavoor P.O., Ponnumparamba' };
-  groom = { name: 'Rajeesh', parents: 'S/O Rameshan. P & Omanam. K', home: 'K.K. House, Muzhakkunnu P.O.' };
+  groom = { name: 'Rajeesh', parents: 'S/O Rameshan. P & Omana. K', home: 'K.K. House, Muzhakkunnu P.O.' };
   date = { day: '03', month: 'December', year: '2026', weekday: 'Thursday', malayalam: '17th Vrischikam, 1202' };
   muhurtham = '11:00 AM – 11:40 AM';
   venue = 'NSS Auditorium';
